@@ -1,0 +1,26 @@
+.array-container {
+  background-color: #153448;
+  /* width: 10000px; */
+  height: 100vw;
+  margin: 17px;
+  padding: 20px;
+  }
+  
+  .array-bar {
+    width: 4px;
+    display: inline-block;
+    margin:3px;
+  }
+  .btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    /* background-color: pink; */
+  }
+  .btn{
+    background-color:#3C5B6F;
+    /* all: unset; */
+    border: 2px #153448 solid;
+    gap:2px;
+  }
